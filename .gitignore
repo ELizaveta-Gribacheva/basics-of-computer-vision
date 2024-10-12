@@ -1,4 +1,4 @@
 *.csv
-.cv_venv/
-
+cv_venv/
+*.png
 
