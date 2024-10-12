@@ -1,2 +1,2 @@
-**.csv
-cv_venv
+*.csv
+.cv_venv
